@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Gobi Manchurian (Dry)",
+    "category": "Appetizers",
+    "description": "Crispy cauliflower florets tossed in a tangy and spicy Manchurian sauce. A perfect start!",
+    "price": 180.00,
+    "imageURL": "/images/gobi-manchurian.jpg",
+    "spiceLevel": 2
+  },
+  {
+    "id": 2,
+    "name": "Chilli Paneer (Dry)",
+    "category": "Appetizers",
+    "description": "Soft paneer cubes stir-fried with bell peppers and onions in a fiery soy-chilli glaze.",
+    "price": 220.00,
+    "imageURL": "/images/chilli-paneer.jpg",
+    "spiceLevel": 2
+  },
+  {
+    "id": 3,
+    "name": "Chicken Lollipop",
+    "category": "Appetizers",
+    "description": "Frenched chicken winglets marinated in spices and fried to perfection. Served with Schezwan sauce.",
+    "price": 250.00,
+    "imageURL": "/images/chicken-lollipop.jpg",
+    "spiceLevel": 1
+  },
+  {
+    "id": 4,
+    "name": "Schezwan Fried Rice",
+    "category": "Noodles & Rice",
+    "description": "Aromatic basmati rice wok-tossed with fresh vegetables in a bold and spicy Schezwan sauce.",
+    "price": 200.00,
+    "imageURL": "/images/schezwan-fried-rice.jpg",
+    "spiceLevel": 3
+  },
+  {
+    "id": 5,
+    "name": "Veg Hakka Noodles",
+    "category": "Noodles & Rice",
+    "description": "Classic noodles stir-fried with crunchy cabbage, carrots, and capsicum in a savory garlic-soy sauce.",
+    "price": 190.00,
+    "imageURL": "/images/hakka-noodles.jpg",
+    "spiceLevel": 1
+  },
+  {
+    "id": 6,
+    "name": "Chilli Chicken (Gravy)",
+    "category": "Main Courses",
+    "description": "Tender chicken pieces in a spicy, umami-rich gravy with onions and capsicum. Pairs perfectly with fried rice.",
+    "price": 260.00,
+    "imageURL": "/images/chilli-chicken-gravy.jpg",
+    "spiceLevel": 2
+  },
+  {
+    "id": 7,
+    "name": "Veg Manchurian (Gravy)",
+    "category": "Main Courses",
+    "description": "Vegetable dumplings simmered in a flavorful ginger, garlic, and soy-based gravy.",
+    "price": 210.00,
+    "imageURL": "/images/veg-manchurian-gravy.jpg",
+    "spiceLevel": 1
+  },
+  {
+    "id": 8,
+    "name": "Fresh Lime Soda",
+    "category": "Drinks",
+    "description": "A fizzy and refreshing drink to cool down the spice. Available sweet, salted, or mixed.",
+    "price": 80.00,
+    "imageURL": "/images/fresh-lime-soda.jpg",
+    "spiceLevel": 0
+  }
+]
+
